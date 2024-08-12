@@ -2,7 +2,7 @@
 
 ```mermaid
 
-mindmap;
-  root;
-    lower;
+mindmap
+  root(AR)
+    lower(lower)
 ```
