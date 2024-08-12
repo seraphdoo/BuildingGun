@@ -2,11 +2,10 @@
 
 ```mermaid
 
----
-title: AR
----
-ar LR;
-  lower([Lower Receiver]);
-  upper([Upper Receiver]);
-  lower --- upper;
+graph LR;
+  ar([AR]);
+  lo([Lower Receiver]);
+  up([Upper Receiver]);
+  ar --- lo;
+  ar --- up;
 ```
