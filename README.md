@@ -16,10 +16,13 @@ graph LR;
   Gas System]);
   bolt([枪栓组件
   Bolt Carrier Group]);
+  trig([扳机组件
+  Trigger Group]);
   ar --- lo;
   ar --- up;
   up --- barr;
   up --- muzz;
   up --- gas;
   up --- bolt;
+  lo --- trig;
 ```
