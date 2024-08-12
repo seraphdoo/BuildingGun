@@ -18,8 +18,8 @@ graph LR;
   Bolt Carrier Group]);
   trig([扳机组件
   Trigger Group]);
-  ar --- lo;
   ar --- up;
+  ar --- lo;
   up --- barr;
   up --- muzz;
   up --- gas;
