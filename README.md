@@ -4,5 +4,5 @@
 
 mindmap
   root(AR)
-    lower(lower)
+    lower(Lower Recevier)
 ```
