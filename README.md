@@ -2,7 +2,10 @@
 
 ```mermaid
 
-mindmap
-  root(AR)
-    lower(Lower Recevier)
+---
+title: AR
+---
+AR LR
+  lower([Lower Receiver])
+  upper([Upper Receiver])
 ```
