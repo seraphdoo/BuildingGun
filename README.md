@@ -4,9 +4,13 @@
 
 graph LR;
   ar((AR));
-  up(上机匣
+  up(上部分
+  Upper);
+  lo(下部分
+  Lower);
+  upp(上机匣
   Upper Receiver);
-  lo(下机匣
+  low(下机匣
   Lower Receiver);
   barr(枪管
   Barrel);
@@ -26,10 +30,12 @@ graph LR;
   Buffer System);
   ar --- up;
   ar --- lo;
+  up --- upp;
   up --- barr;
   up --- muzz;
   up --- gas;
   up --- bolt;
+  lo --- low;
   lo --- trig;
   lo --- fire;
   lo --- pist;
