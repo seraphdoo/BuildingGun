@@ -2,5 +2,6 @@
 
 '''mermaid
 
-root(AR)
+root(AR);
+  Lower(Lower Receiver)
 '''
