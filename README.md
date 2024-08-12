@@ -1,7 +1,7 @@
 # BuildingGun
 
-'''mermaid
+```mermaid
 
 root(AR);
   Lower(Lower Receiver);
-'''
+```
