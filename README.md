@@ -4,8 +4,9 @@
 
 graph LR;
   ar([AR]);
-  lo([Lower Receiver]);
   up([Upper Receiver]);
+  lo([下机匣
+  Lower Receiver]);
   barr([Barrel]);
   muzz([Muzzle Device]);
   gas([Gas System]);
