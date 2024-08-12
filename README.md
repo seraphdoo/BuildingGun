@@ -3,6 +3,6 @@
 ```mermaid
 
 mindmap
-  root(AR)
+  root(AR) LR
     lower(Lower Recevier)
 ```
