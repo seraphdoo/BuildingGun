@@ -3,6 +3,6 @@
 ```mermaid
 
 mindmap;
-root(AR);
-  lower(Lower Receiver);
+  root(AR);
+    lower(Lower Receiver);
 ```
