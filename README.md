@@ -3,7 +3,7 @@
 ```mermaid
 
 graph LR;
-  ar(AR);
+  ar((AR));
   up(上机匣
   Upper Receiver);
   lo(下机匣
