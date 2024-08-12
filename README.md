@@ -3,5 +3,5 @@
 '''mermaid
 
 root(AR);
-  Lower(Lower Receiver)
+  Lower(Lower Receiver);
 '''
