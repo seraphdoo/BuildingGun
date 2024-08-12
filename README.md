@@ -28,6 +28,8 @@ graph LR;
   Pistol Grip);
   buff(缓冲系统
   Buffer System);
+  butt(后托
+  Buttstock);
   ar --- up;
   ar --- lo;
   up --- upp;
@@ -40,4 +42,5 @@ graph LR;
   lo --- fire;
   lo --- pist;
   lo --- buff;
+  lo --- butt;
 ```
