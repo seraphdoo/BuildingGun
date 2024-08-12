@@ -4,17 +4,22 @@
 
 graph LR;
   ar([AR]);
-  up([Upper Receiver]);
+  up([上机匣
+  Upper Receiver]);
   lo([下机匣
   Lower Receiver]);
-  barr([Barrel]);
-  muzz([Muzzle Device]);
-  gas([Gas System]);
-  bolt([Bolt Carrier Group]);
+  barr([枪管
+  Barrel]);
+  muzz([枪/膛口装置
+  Muzzle Device]);
+  gas([导气系统
+  Gas System]);
+  bolt([枪栓组件
+  Bolt Carrier Group]);
   ar --- lo;
   ar --- up;
-  lo --- barr;
-  lo --- muzz;
-  lo --- gas;
-  lo --- bolt;
+  up --- barr;
+  up --- muzz;
+  up --- gas;
+  up --- bolt;
 ```
