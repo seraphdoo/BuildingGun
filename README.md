@@ -42,5 +42,5 @@ graph LR;
   lo --- pist;
   lo --- buff;
   lo --- butt;
-  fire -- trig;
+  fire --- trig;
 ```
