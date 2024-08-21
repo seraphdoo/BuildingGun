@@ -38,9 +38,9 @@ graph LR;
   up --- gas;
   up --- bolt;
   lo --- low;
-  lo --- trig;
   lo --- fire;
   lo --- pist;
   lo --- buff;
   lo --- butt;
+  fire -- trig;
 ```
